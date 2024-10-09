@@ -75,6 +75,13 @@ Once the database is set up, you can:
 
 This project is open-source and can be freely modified and distributed under the MIT License.
 
----
 
-For more details, contributions, or bug reports, please contact the project administrator.
+## Contact
+
+For more information, reach out to:
+
+- **Email:** [ahmedsszobaer@gmail.com](mailto:ahmedsszobaer@gmail.com)
+- **GitHub:** [S. S. Zobaer Ahmed](https://www.github.com/sszobaer)
+- **Linkedin:** [S. S. Zobaer Ahmed](https://www.linkedin.com/in/s-s-zobaer-ahmed-209bab296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **YouTube Channel:** [Code Craft Zobaer](https://www.youtube.com/@CodeCraftZobaer)
+
